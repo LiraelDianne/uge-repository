@@ -1,0 +1,28 @@
+
+history | less
+history
+ls /var/spool
+ls /
+cd ~/Music/
+ls ~
+xrandr --output eDP1 --brightness 0.8 (change brightness of eDP1 monitor to 80%)
+xrandr (monitor info)
+man chmod (is super confusing)
+sudo adduser melinda
+curl -L trhou.se/patch01 | bash
+sudo !! (!! didn't work this time?)
+adduser melinda
+whoami
+ls -R
+ls -r
+ls -l
+ls
+rm -r my\ folder
+ls -lg
+ls -lh
+ls Downloads
+ls -d
+ls -f
+ls -tr
+pwd
+cd code
